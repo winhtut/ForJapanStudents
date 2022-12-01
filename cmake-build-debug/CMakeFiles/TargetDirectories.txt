@@ -1,0 +1,3 @@
+D:/mySrouceCode/ForJapanStudent/cmake-build-debug/CMakeFiles/ForJapanStudent.dir
+D:/mySrouceCode/ForJapanStudent/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mySrouceCode/ForJapanStudent/cmake-build-debug/CMakeFiles/rebuild_cache.dir
