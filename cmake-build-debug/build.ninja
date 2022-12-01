@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/mySrouceCode/ForJapanStudent/cmake-build-debug/
 
 build cmake_object_order_depends_target_ForJapanStudent: phony || CMakeFiles/ForJapanStudent.dir
 
-build CMakeFiles/ForJapanStudent.dir/election.cpp.obj: CXX_COMPILER__ForJapanStudent_Debug D$:/mySrouceCode/ForJapanStudent/election.cpp || cmake_object_order_depends_target_ForJapanStudent
-  DEP_FILE = CMakeFiles\ForJapanStudent.dir\election.cpp.obj.d
+build CMakeFiles/ForJapanStudent.dir/6-assignment2.cpp.obj: CXX_COMPILER__ForJapanStudent_Debug D$:/mySrouceCode/ForJapanStudent/6-assignment2.cpp || cmake_object_order_depends_target_ForJapanStudent
+  DEP_FILE = CMakeFiles\ForJapanStudent.dir\6-assignment2.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\ForJapanStudent.dir
   OBJECT_FILE_DIR = CMakeFiles\ForJapanStudent.dir
@@ -63,7 +63,7 @@ build CMakeFiles/ForJapanStudent.dir/election.cpp.obj: CXX_COMPILER__ForJapanStu
 #############################################
 # Link the executable ForJapanStudent.exe
 
-build ForJapanStudent.exe: CXX_EXECUTABLE_LINKER__ForJapanStudent_Debug CMakeFiles/ForJapanStudent.dir/election.cpp.obj
+build ForJapanStudent.exe: CXX_EXECUTABLE_LINKER__ForJapanStudent_Debug CMakeFiles/ForJapanStudent.dir/6-assignment2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ForJapanStudent.dir

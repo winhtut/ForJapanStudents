@@ -3,4 +3,4 @@ project(ForJapanStudent)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ForJapanStudent election.cpp)
+add_executable(ForJapanStudent 6-assignment2.cpp)
